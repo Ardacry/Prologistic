@@ -1,2 +1,2 @@
 # Prologistic
-A programming language that is designed for Propositional Calculus
+A programming language designed for Propositional Calculus
